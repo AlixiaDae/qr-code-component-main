@@ -21,7 +21,7 @@ body {
     margin: 0;
     font-family: var(--mainfont);
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
     height: 100vh;
@@ -39,8 +39,6 @@ img {
 .background {
     background-color: var(--lgray);
     display: flex;
-    justify-content: center;
-    align-items: center;
     height: 85%;
     width: 90%;
     box-shadow: 0px 10px 20px hsl(213, 19%, 78%);
@@ -63,4 +61,10 @@ h1 {
 .qr-card > p {
     text-align: center;
     color: var(--gblue);
+}
+
+.attribution {
+    font-size: 11px; 
+    text-align: center;
+    color: hsl(228, 45%, 44%);
 }
