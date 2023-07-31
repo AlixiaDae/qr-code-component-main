@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-challenge-with-html-and-css-zGF0MBMJGV)
+- Live Site URL: [Add live site URL here](https://alixiadae.github.io/qr-code-component-main/)
 
 ### Built with
 
